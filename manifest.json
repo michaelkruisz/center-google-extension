@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Center Search Results",
+    "name": "Center Google Search Results",
     "version": "1.0",
-    "description": "Centers Google search results on the page",
+    "description": "Centers the Google search results in the browser.",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
