@@ -1,0 +1,28 @@
+#cnt {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  
+  #center_col {
+    width: 100%;
+    margin-left: 0;
+  }
+  
+  .g {
+    width: 1140px !important;
+  }
+  
+  #rcnt {
+    width: 100%;
+  }
+  
+  #searchform {
+    max-width: 1140px;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
+  
+  .IsZvec {
+    max-width: none;
+  }
+  
